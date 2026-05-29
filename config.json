@@ -1,0 +1,202 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#3b3a3a",
+            "lang-select-color": "#222829",
+            "bg-light": "#000000",
+            "welcome-bonus-bg": "#000000",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#404040",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#DB453E",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#660500",
+            "yellow-button": "#DB453E",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000000",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#DB453E",
+            "providers-back": "#000000",
+            "faq-label": "#000000",
+            "bg-footer": "#3b3a3a",
+            "copyright": "#e7e7d5",
+            "starColor": "#DB453E",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8343"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8344",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Kingpari Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8345",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Kingpari Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Kingpari Casino ",
+                    "title": "Kingpari Online Casino Review: Slots, Live Casino Games, Promotions, VIP Rewards, Tournaments and Real Money Play",
+                    "description": "Discover Kingpari, our online casino with slots, live casino games, roulette, bingo, blackjack, promotions, VIP rewards and tournaments.",
+                    "canonical": "kingpari-casino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8346",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "kingpari-casino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8347"
+                },
+                "hero": {
+                    "title": "Kingpari Online Casino for Slots, Live Casino Games, Promotions, VIP Rewards and Real Money Play",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8348",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -2,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8349",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 0,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Online slots",
+                        "Live casino",
+                        "VIP rewards",
+                        "Casino promotions",
+                        "Fast payouts"
+                    ],
+                    "advantagesAfterText": "Our advantages reflect the key strengths of our casino: online slot entertainment, live casino access, classic casino categories, promotional offers, VIP rewards and tournament features created for our guests.",
+                    "knowMore": "Know more",
+                    "appTitle": "Kingpari Mobile App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8350",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Kingpari Mobile App",
+                    "mobileGooglePlayImageTitle": "Kingpari Mobile App",
+                    "mobileIosImageTitle": "Kingpari Mobile App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About the Casino",
+                        "description1": "Kingpari is our online casino created for guests who want casino games, online slots, live casino entertainment and real money play in one place. We present a structured platform with clear access to casino content and promotional sections.",
+                        "items": [
+                            "Kingpari includes a VIP section.",
+                            "Our casino features tournament options.",
+                            "Kingpari offers live casino games."
+                        ],
+                        "description2": "At our casino, our guests can explore popular slot titles, live casino games and classic table games. The game lobby also includes categories such as King Choice, New, Popular, Live Casino, Roulette, Bingo and Blackjack.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/8351",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Kingpari ",
+                        "description3": "Our casino includes Promotions, VIP, Tournaments, Fortune Wheel and Achievements sections. These areas help create a more engaging experience for guests who value variety, rewards and regular casino activity.\n\nKingpari also presents welcome bonus offers, including the 1st Deposit Welcome Bonus and Night Owl Bonus. Our guests can use the platform to enjoy casino games, live casino categories and real money entertainment."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Kingpari Casino: 24\/7 Royal Online Casino Experience",
+                        "description": "\n<p>\nAt Kingpari Casino, we bring a bold royal-style online casino experience together with fast access, a large game lobby and flexible entertainment around the clock. Our casino is open 24\/7, so players can enjoy slots, live casino, table games, jackpot titles, crash games, instant games and sports betting whenever they want. We built our lobby for variety, giving players access to thousands of game options from well-known casino software studios. Live casino is one of our standout areas, combining real dealers, interactive tables and smooth streaming for a premium casino-floor atmosphere. For players who enjoy quick decisions and short sessions, our instant games and crash formats add speed and excitement. Instead of a physical hotel or bar complex, we focus on a complete online lounge with account tools, bonuses, promotions, quick payments and mobile-friendly access. Entertainment at Kingpari Casino also includes sportsbook markets, live betting, tournaments, seasonal campaigns and recurring bonus events. New players can start with welcome bonus value and free spins. Returning players can enjoy extra promotions, cashback opportunities, VIP-style benefits and personalized offers. We create a casino space where game variety, speed, comfort and reward potential come together in one digital destination.\n<\/p>\n<br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n    <tr>\n      <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Zone<\/th>\n      <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Days and Hours<\/th>\n    <\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Slots and Jackpot Games<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Daily, 24\/7<\/td><\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Live Casino<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Daily, 24\/7<\/td><\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Table Games<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Daily, 24\/7<\/td><\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Crash and Instant Games<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Daily, 24\/7<\/td><\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Sportsbook and Live Betting<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Daily, 24\/7<\/td><\/tr>\n  <\/table>\n<\/div>\n<br><h3 style = \"font-weight: bold;font-size: 32px;\">\nKingpari Casino Support, Currencies, Payments and Withdrawals\n<\/h3>\n<p>\nAt Kingpari Casino, we build our support experience around fast answers, clear instructions and confident assistance at every stage of the player journey. Our team helps with registration, login, casino bonuses, sportsbook activity, deposits, withdrawals and account questions. English is the primary communication language, while the platform is designed for an international audience that values simple navigation and direct account tools. We make it easy for players to move from the cashier to games, promotions, sportsbook markets and profile settings.\n<\/p>\n<p>\nOur casino cashier may include bank cards, e-wallets, online banking options, prepaid solutions and cryptocurrencies where available in the player account. For crypto-friendly players, popular options may include BTC, ETH, USDT, LTC and other widely used digital assets. Payment limits, processing speed and availability depend on the selected method, account status and cashier conditions. Before making a deposit, players should always check the currency, network and minimum amount shown in the payment window.\n<\/p>\n<p>\nBecause Kingpari Casino is an online platform, traditional ATMs and physical exchange desks are replaced by a streamlined digital cashier. Players manage their balance through the account area by selecting a payment method, confirming a deposit, activating a bonus and requesting a withdrawal when winnings become available. When bonus funds are used, wagering requirements, bet limits and eligible game rules apply according to the selected offer. Approved payouts are processed through supported channels after standard security checks.\n<\/p>\n<p>\nWe keep withdrawals clear, protected and convenient. In some cases, account verification may be requested, especially for larger payouts, payment method changes or additional profile protection. For most recreational players, casino winnings are generally treated as non-taxable, though personal circumstances can vary. Players should review their own obligations and speak with a qualified tax professional when dealing with large winnings or professional-level gambling activity.\n<\/p>\n<br><h3 style = \"font-weight: bold;font-size: 32px;\">\nKingpari Casino Access Rules and Player Comfort\n<\/h3>\n<p>\nKingpari Casino is an online casino, so players enter our gaming space through a browser, smartphone, tablet or desktop device. We do not use a traditional land-based dress code, but we do support a culture of fair, responsible and secure play. Real-money gameplay requires a personal account and acceptance of the platform rules. Players should use their own details and manage their account personally. We follow a one-player, one-account approach to protect bonuses, balances and withdrawals. Fraud, multiple accounts, account sharing, bonus abuse and use of technical errors are not part of our casino environment. Sportsbook markets, live casino tables and slot games are also governed by the rules of the relevant provider, market or game. Payment activity may include limits, security checks and method-specific conditions. Accessing Kingpari Casino is simple: open the platform, log in and choose casino, live casino or sportsbook. Parking is not needed because the full entertainment experience is digital.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold; font-size: 24px;\">\nEntry Conditions\n<\/h3>\n<ul>\n  <li>• Age: players must be 18+ or meet the higher minimum legal age where applicable.<\/li>\n  <li>• Account: real-money play requires a personal registered profile.<\/li>\n  <li>• Details: account information should be accurate and belong to the player.<\/li>\n  <li>• Terms: players must accept Kingpari Casino rules before playing.<\/li>\n<\/ul><br>\n<h3 style = \"font-weight: bold; font-size: 24px;\">\nRestrictions\n<\/h3>\n<ul>\n  <li>• Multiple accounts: one player should use one personal account.<\/li>\n  <li>• Bonus misuse: promotions must be used according to their specific terms.<\/li>\n  <li>• Account sharing: players should not play on behalf of another person.<\/li>\n  <li>• Technical misuse: errors, delays or system issues must not be exploited.<\/li>\n<\/ul><br>\n<h3 style = \"font-weight: bold; font-size: 24px;\">\nHow to Access and Play\n<\/h3>\n<ul>\n  <li>• Desktop: full access to casino, live casino, sportsbook and cashier.<\/li>\n  <li>• Mobile: smooth access from smartphone or tablet.<\/li>\n  <li>• 24\/7 availability: main gaming areas are open around the clock.<\/li>\n  <li>• Account area: deposits, withdrawals, bonuses and settings are managed in one place.<\/li>\n<\/ul><br><h3 style = \"font-weight: bold;font-size: 32px;\">\nKingpari Casino Loyalty Program, VIP Benefits and Rewards\n<\/h3>\n<p>\nAt Kingpari Casino, we reward active players through multi-level bonuses, cashback, VIP opportunities, personalized offers and recurring promotions. Our loyalty approach is built around casino activity, deposits, promotional participation and long-term engagement with both casino and sportsbook entertainment. New players can start with a welcome package that may include bonus funds and free spins across initial deposits. Returning players can access more value through weekly offers, bonus spins, reload campaigns and tailored rewards. In the VIP area, we focus on higher value, more personal attention and additional benefits for active players. Cashback may reach up to 10% depending on the available offer and account status. Promotional features may include fortune wheels, missions, tournaments and special prize campaigns. Every bonus has its own conditions, including possible wagering, bet limits, minimum deposits and eligible games. We create a reward system that gives players more reasons to return to Kingpari Casino. Registration starts with account creation, a qualifying deposit and activation of available offers in the account area.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold; font-size: 24px;\">\nRegistration Conditions\n<\/h3>\n<ul>\n  <li>• Create a Kingpari Casino account: the first step to access bonuses, VIP and promotions.<\/li>\n  <li>• Confirm details: standard account checks may apply when required.<\/li>\n  <li>• Make a deposit: the minimum amount depends on the selected promotion.<\/li>\n  <li>• Activate a bonus: use the cashier, promotions page or personalized offer area.<\/li>\n  <li>• Follow the terms: wagering, bet limits and eligible games apply by offer.<\/li>\n<\/ul><br>\n<h3 style = \"font-weight: bold; font-size: 24px;\">\nLevels and Activity\n<\/h3>\n<ul>\n  <li>• Start: new players can access welcome package value and free spins.<\/li>\n  <li>• Regular: recurring play may unlock reload bonuses, free spins and promotions.<\/li>\n  <li>• Advanced: higher activity may bring cashback and more frequent personalized offers.<\/li>\n  <li>• VIP: active players may receive enhanced limits, individual bonuses and extra benefits.<\/li>\n  <li>• High-Value Player: larger deposits and consistent activity may unlock premium service.<\/li>\n<\/ul><br>\n<h3 style = \"font-weight: bold; font-size: 24px;\">\nReward Benefits\n<\/h3>\n<ul>\n  <li>• Welcome package: bonus funds and free spins across initial deposits.<\/li>\n  <li>• Free spins: spins on selected slots through welcome and promo campaigns.<\/li>\n  <li>• Cashback up to 10%: partial loss return under available offer terms.<\/li>\n  <li>• Reload offers: extra bonus value on returning deposits.<\/li>\n  <li>• Fortune wheels: prize wheels with bonuses, free spins and special rewards.<\/li>\n  <li>• VIP offers: personalized bonuses, higher value and special conditions.<\/li>\n  <li>• Tournament rewards: prize pools, leaderboards and activity-based rewards.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Kingpari Casino Bonuses, Wins and Special Offers",
+                        "description": "\n<p>\nAt Kingpari Casino, we make bonuses a core part of the experience for both new and returning players. New players may access a multi-stage welcome package with bonus funds and free spins across initial deposits. This structure lets players collect more value over time instead of relying on a single first-deposit offer. Free spins are used on selected slots and give players extra chances to explore popular titles. Reload bonuses support regular play and make returning deposits more rewarding. Cashback up to 10% may return part of losses under the terms of the available offer. Fortune wheels and game missions add an interactive layer where players can win free spins, bonus funds or other rewards. Tournaments and leaderboards create competitive casino entertainment with prize pools. Seasonal promotions may connect with holidays, major sports events, new slot releases and themed weeks. We combine casino promotions, sportsbook offers and personalized bonuses in one convenient reward ecosystem.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold; font-size: 24px;\">\nWelcome Offers\n<\/h3>\n<ul>\n  <li>• Welcome package: bonus funds and free spins across initial deposits.<\/li>\n  <li>• Up to 500+ free spins: the amount depends on the active offer and deposit stage.<\/li>\n  <li>• Up to 300% bonus: available in selected welcome campaigns.<\/li>\n  <li>• Multi-stage structure: additional bonuses across several first deposits.<\/li>\n  <li>• Wagering from 35×: applied according to the terms of the selected promotion.<\/li>\n<\/ul><br>\n<h3 style = \"font-weight: bold; font-size: 24px;\">\nRegular Bonuses\n<\/h3>\n<ul>\n  <li>• Reload bonus: extra percentage value on returning deposits.<\/li>\n  <li>• Weekly free spins: spins on selected slots through recurring promotions.<\/li>\n  <li>• Cashback up to 10%: partial loss return under account and offer conditions.<\/li>\n  <li>• Birthday bonus: a personalized reward opportunity for special occasions.<\/li>\n  <li>• Promo codes: codes for bonuses, free spins and reload campaigns.<\/li>\n<\/ul><br>\n<h3 style = \"font-weight: bold; font-size: 24px;\">\nGame and Seasonal Events\n<\/h3>\n<ul>\n  <li>• Slot tournaments: leaderboards and prize pools for active players.<\/li>\n  <li>• Sportsbook promos: betting offers for live betting and major sports events.<\/li>\n  <li>• Fortune wheels: prize wheels with free spins and bonus funds.<\/li>\n  <li>• Seasonal campaigns: holiday promotions, themed weeks and special rewards.<\/li>\n  <li>• Game missions: task-based rewards for completing casino conditions.<\/li>\n<\/ul><br><h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Kingpari Casino\n<\/h3>\n<p>\nAt Kingpari Casino, we offer a large game selection for different playing styles, including slots, live casino, table games, jackpot titles, crash games, instant games and sportsbook markets. Slots are a central part of our lobby thanks to their variety of themes, mechanics, bonus rounds and volatility levels. Players can choose classic machines, modern video slots, Megaways-style formats, jackpot games and bonus-buy titles. Live casino is ideal for players who enjoy real dealers, streaming tables and the atmosphere of a genuine casino floor. Blackjack, roulette, baccarat and game shows create a premium live experience with strong interaction. RNG table games are convenient for fast sessions without waiting for other players. Crash games and instant games add speed, simple rules and high-energy decisions. Sportsbook and live betting let players move between casino games and sports markets. Jackpot titles are designed for players who enjoy large prize pools and rising excitement. We keep the lobby easy to explore so every player can quickly find the right format.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold; font-size: 24px;\">\nPopular Categories\n<\/h3>\n<ul>\n  <li>• Slots: classic and modern machines with bonus rounds and varied features.<\/li>\n  <li>• Jackpot Games: titles with larger prize pools and high-excitement potential.<\/li>\n  <li>• Live Casino: real dealers, streaming tables and interactive gameplay.<\/li>\n  <li>• Live Blackjack: fast pacing with classic card-game strategy.<\/li>\n  <li>• Live Roulette: European and other popular roulette formats.<\/li>\n  <li>• Baccarat: a streamlined card game with a premium live-table feel.<\/li>\n  <li>• Game Shows: hosted live entertainment with interactive rounds.<\/li>\n  <li>• Crash Games: quick rounds with dynamic multipliers.<\/li>\n  <li>• Instant Games: fast-play formats for short sessions.<\/li>\n  <li>• Sportsbook: sports betting, live betting and pre-match markets.<\/li>\n<\/ul><br><h3 style = \"font-weight: bold;font-size: 32px;\">\nKingpari Casino Minimum and Maximum Bet Limits\n<\/h3>\n<p>\nAt Kingpari Casino, we offer flexible bet ranges for different playing styles, from casual sessions to high-stakes formats. Exact limits depend on the selected game, provider, currency, table, bonus and account status. Before starting a game, players can review the available limits directly inside the game window. The table below shows practical guide ranges for popular Kingpari Casino zones.\n<\/p>\n<br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n    <tr>\n      <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Game or Zone<\/th>\n      <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Minimum and Maximum Bet<\/th>\n    <\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Slots<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">From $0.10 to $100+<\/td><\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Jackpot Games<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">From $0.10 to $250+<\/td><\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Live Blackjack<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">From $1 to $5,000<\/td><\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Live Roulette<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">From $0.50 to $10,000<\/td><\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Baccarat<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">From $1 to $20,000<\/td><\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Crash and Instant Games<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">From $0.10 to $5,000<\/td><\/tr>\n    <tr><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">Sportsbook and Live Betting<\/td><td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">From $0.10, maximum depends on market and event<\/td><\/tr>\n  <\/table>\n<\/div><h3 style = \"font-weight: bold;font-size: 32px;\">\nKingpari Casino Online Lounge, Game Zones and Player Comfort\n<\/h3>\n<p>\nKingpari Casino is an online casino where relaxation is built around easy access, a large game selection and a flexible digital format. We do not limit players to a physical address, restaurant or hotel: the full entertainment complex is available through the account area. Players can open the casino lobby, choose a live table, move to the sportsbook or activate a bonus without waiting or booking.\n<\/p>\n<p>\nOur online lounge brings together slots, jackpot games, live casino, table games, crash games, instant games and sports betting. Slots and jackpot titles are ideal for a relaxed session, while live casino, game shows and live betting create a more energetic evening feel. Fast formats such as crash games and instant games are convenient for short breaks and quick entertainment.\n<\/p>\n<p>\nThe Kingpari Casino experience is enhanced with bonuses, free spins, cashback, VIP opportunities and seasonal offers. All key features — games, cashier, withdrawals, promotions, sportsbook and account settings — are available in one digital space. We create a comfortable online format where players get casino atmosphere, flexibility and broad entertainment choice without travel.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold; font-size: 24px;\">\nRelaxation and Game Areas\n<\/h3>\n<ul>\n  <li>• Casino Lobby: the main access point for all game categories.<\/li>\n  <li>• Slots Zone: slots with different themes, mechanics and bonus features.<\/li>\n  <li>• Jackpot Lounge: games with larger prize pools and high-excitement potential.<\/li>\n  <li>• Live Casino Room: live-dealer tables with interactive streaming.<\/li>\n  <li>• Table Games Area: blackjack, roulette, baccarat and RNG formats.<\/li>\n  <li>• Crash & Instant Corner: fast games for short sessions.<\/li>\n  <li>• Sportsbook Arena: sports betting and live betting markets.<\/li>\n  <li>• Promotions Hub: bonuses, free spins, cashback and tournaments.<\/li>\n  <li>• VIP Area: personalized offers and enhanced value.<\/li>\n  <li>• Mobile Lounge: convenient access from smartphone and tablet.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What is Kingpari?",
+                            "answer": "Kingpari is our online casino with casino games, online slots, live casino games, promotions, VIP rewards and tournaments."
+                        },
+                        {
+                            "title": "What casino games are available at Kingpari?",
+                            "answer": "Our guests can explore online slots, live casino games, roulette, bingo, blackjack and classic table games."
+                        },
+                        {
+                            "title": "Does Kingpari offer live casino games?",
+                            "answer": "Yes, our casino includes a Live Casino section for guests."
+                        },
+                        {
+                            "title": "Does Kingpari have promotions?",
+                            "answer": "Yes, Kingpari includes a Promotions section and displays casino bonus offers."
+                        },
+                        {
+                            "title": "Does Kingpari offer VIP rewards?",
+                            "answer": "Yes, our casino includes a VIP section for guests."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
